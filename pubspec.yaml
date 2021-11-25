@@ -51,3 +51,6 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
+
+scripts:
+  generate-icon: flutter pub run flutter_launcher_icons:main
