@@ -10,3 +10,10 @@ o QR Code de permissão de acesso.
 ``` bash
 flutter run
 ```
+## Gerar icones
+
+Necessário ter instalado o Slidy no pc.
+
+``` bash
+slidy run generate-icon
+```
