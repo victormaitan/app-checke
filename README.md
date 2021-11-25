@@ -1,16 +1,12 @@
-# checke
+# Checke App
 
-A new Flutter project.
+Um app desenvolvido para controle de acesso de convidados em eventos.
 
-## Getting Started
+Crie, edite, adicione pessoas na lista do evento e compartilhe com seus convidados 
+o QR Code de permissão de acesso.
 
-This project is a starting point for a Flutter application.
+## Iniciando o projeto
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+``` bash
+flutter run
+```
